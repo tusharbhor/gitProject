@@ -1,2 +1,2 @@
 # gitProject
-Testing Project
+New Project
